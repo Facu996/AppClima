@@ -1,0 +1,48 @@
+body{
+  background-color: #a3cef1;
+}
+
+.App {
+  text-align: center;
+}
+
+.input-group{
+  width: 50%;
+}
+
+.navbar{
+  background-color: #274c77;
+}
+.card{
+  max-width: 70%;
+  background-color: #6096ba;
+}
+.bg{
+  opacity: 1;
+}
+.card-title{
+  position: absolute;
+  padding: 20px;
+  font-size: 40px;
+}
+.card-date{
+  position: absolute;
+  padding: 20px;
+  margin-left: 20px;
+  margin-top: 60px;
+  font-size: 30px;
+}
+
+.card-temp{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 260px;
+  font-size: 50px;
+}
+
+.card-desc{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 320px;
+  font-size: 20px;
+}
