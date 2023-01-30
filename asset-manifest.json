@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AppClima/static/css/main.286164e5.css",
+    "main.js": "/AppClima/static/js/main.b502aa03.js",
+    "static/js/787.01f48bee.chunk.js": "/AppClima/static/js/787.01f48bee.chunk.js",
+    "index.html": "/AppClima/index.html",
+    "main.286164e5.css.map": "/AppClima/static/css/main.286164e5.css.map",
+    "main.b502aa03.js.map": "/AppClima/static/js/main.b502aa03.js.map",
+    "787.01f48bee.chunk.js.map": "/AppClima/static/js/787.01f48bee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.286164e5.css",
+    "static/js/main.b502aa03.js"
+  ]
+}
